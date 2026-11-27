@@ -77,6 +77,6 @@ If the key is absent, the parser factory selects the offline rule-based parser.
 - Idempotency protection and automatic subtask generation are not yet fully implemented.
 
 ## Author
-Vishuddha Patil
+
 
 Vishuddha Patil
